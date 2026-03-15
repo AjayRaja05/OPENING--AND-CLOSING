@@ -73,8 +73,6 @@ plt.axis('off')
 
 
 
-
-
 ### Display the result of Opening
 
 
