@@ -69,15 +69,18 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
+<img width="485" height="515" alt="image" src="https://github.com/user-attachments/assets/08de135b-c6a8-445f-8c1a-873f87363d42" />
 
 
 
 
 ### Display the result of Opening
+<img width="487" height="513" alt="image" src="https://github.com/user-attachments/assets/883b5f24-8193-4eae-9797-523102ed4b6f" />
 
 
 
 ### Display the result of Closing
+<img width="483" height="511" alt="image" src="https://github.com/user-attachments/assets/0c627ad6-481f-40c9-88b9-22403bd2ee95" />
 
 
 
